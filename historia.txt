@@ -1,3 +1,4 @@
+Esta es una modificacion al archivo realizada por juanitoPecados, nuevo colaborador del hyperblog
 Archivo de texto de proeva no1 para el curso profesional de git y github
 Soy juan y tengo 18 años
 
